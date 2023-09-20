@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bee9fe7af78e0ae9ab0ef99fe6fd4a4e",
+    "revision": "0916149ba73cb10297aa5d4f6ecb96f2",
     "url": "/react-car-dealer/index.html"
   },
   {
-    "revision": "6fbee9abc0f855540dc4",
+    "revision": "8970fa523de440fba83d",
     "url": "/react-car-dealer/static/css/main.447c5b03.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-car-dealer/static/js/2.50184ea9.chunk.js"
   },
   {
-    "revision": "6fbee9abc0f855540dc4",
-    "url": "/react-car-dealer/static/js/main.7e4b21fd.chunk.js"
+    "revision": "8970fa523de440fba83d",
+    "url": "/react-car-dealer/static/js/main.216e03f4.chunk.js"
   },
   {
     "revision": "ae3fe4fe1c040f6d07c4",

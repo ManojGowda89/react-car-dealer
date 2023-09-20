@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-car-dealer/static/css/main.447c5b03.chunk.css",
-    "main.js": "/react-car-dealer/static/js/main.7e4b21fd.chunk.js",
-    "main.js.map": "/react-car-dealer/static/js/main.7e4b21fd.chunk.js.map",
+    "main.js": "/react-car-dealer/static/js/main.216e03f4.chunk.js",
+    "main.js.map": "/react-car-dealer/static/js/main.216e03f4.chunk.js.map",
     "runtime-main.js": "/react-car-dealer/static/js/runtime-main.6b00315b.js",
     "runtime-main.js.map": "/react-car-dealer/static/js/runtime-main.6b00315b.js.map",
     "static/js/2.50184ea9.chunk.js": "/react-car-dealer/static/js/2.50184ea9.chunk.js",
     "static/js/2.50184ea9.chunk.js.map": "/react-car-dealer/static/js/2.50184ea9.chunk.js.map",
     "index.html": "/react-car-dealer/index.html",
-    "precache-manifest.f0e3ee43831a8b984b1db9fb5eb7687a.js": "/react-car-dealer/precache-manifest.f0e3ee43831a8b984b1db9fb5eb7687a.js",
+    "precache-manifest.14529692274c94e561a2feed6a6e84b3.js": "/react-car-dealer/precache-manifest.14529692274c94e561a2feed6a6e84b3.js",
     "service-worker.js": "/react-car-dealer/service-worker.js",
     "static/css/main.447c5b03.chunk.css.map": "/react-car-dealer/static/css/main.447c5b03.chunk.css.map",
     "static/media/Styles.css": "/react-car-dealer/static/media/car-2.7aac585b.jpg",
@@ -71,6 +71,6 @@
     "static/js/runtime-main.6b00315b.js",
     "static/js/2.50184ea9.chunk.js",
     "static/css/main.447c5b03.chunk.css",
-    "static/js/main.7e4b21fd.chunk.js"
+    "static/js/main.216e03f4.chunk.js"
   ]
 }
