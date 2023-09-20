@@ -7,7 +7,7 @@ const ErrorPage = () => {
   return (
     <HeroBackground>
 
-      <Banner title='404' subtitle='Oops, page not found'>
+      <Banner title='Mdr Dealership' subtitle='Find Your Dream Car Here'>
         <Link to='/' className='btn-primary'>
           Return Home
       </Link>
